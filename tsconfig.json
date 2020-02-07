@@ -9,7 +9,7 @@
     "sourceMap": true,
     "lib": [
       "dom",
-      "esnext"
+      "es2019"
     ]
   },
   "files": [
