@@ -1,9 +1,9 @@
 {
-  "scripts": {
-    "demo": "ts-node hello.ts"
-  },
-  "devDependencies": {
-    "ts-node": "8.6.2",
-    "typescript": "3.7.5"
-  }
+    "scripts": {
+        "start": "ts-node hello.ts"
+    },
+    "devDependencies": {
+        "ts-node": "8.6.2",
+        "typescript": "3.7.5"
+    }
 }
